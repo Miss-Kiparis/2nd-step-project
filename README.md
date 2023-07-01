@@ -3,7 +3,7 @@
 Це ремейк іншого группового репозиторю під назвою [Step_Project_New_Life](https://github.com/Miss-Kiparis/Step_Project_New_Life). 
 Зроблений виключно з ціллю попрактикуватися у верстці та написанні коду. Сторінка адаптована під мобільні телефони і планшети також.
 
-<`Link`>: <https://miss-kiparis.github.io/2nd-step-project/?
+<`Link`>: <https://miss-kiparis.github.io/2nd-step-project/
 
 
 

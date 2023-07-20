@@ -2,7 +2,7 @@
   "name": "Forkio",
   "version": "1.0.0",
   "main": "index.html",
-  "homepage": "https://d1nosaurrr.github.io/step-project-forkio",
+  "homepage": "https://Miss-Kiparis.github.io/2nd-step-project",
   "scripts": {
     "build": "gulp build",
     "dev": "gulp dev",
